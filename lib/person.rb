@@ -4,6 +4,5 @@ class person
     @talk = talk
     @walk = walk
     
-    
 
 end
