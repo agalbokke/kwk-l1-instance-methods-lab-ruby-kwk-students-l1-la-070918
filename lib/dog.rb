@@ -5,3 +5,4 @@ class dog
     @sit = sit
   end
 end
+
