@@ -2,7 +2,7 @@
 class person
 
 def talk
-  @talk
+  puts "Hello World!"
 end
  
 def walk
