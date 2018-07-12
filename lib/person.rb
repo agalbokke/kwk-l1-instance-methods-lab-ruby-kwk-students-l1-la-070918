@@ -1,8 +1,8 @@
 # person.rb
 class person
-  def initialize(bark, sit)
-    @bark = bark
-    @sit = sit
+  def initialize(talk, walk)
+    @talk = talk
+    @walk = walk
     
     
 
