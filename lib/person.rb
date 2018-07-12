@@ -6,6 +6,6 @@ def talk
 end
  
 def walk
-  @walk
+  puts "The Person is walking."
 end
 
